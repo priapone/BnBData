@@ -46,8 +46,9 @@
              "url":"Images.service4"
           },
           "thump":{
-             "url":"Images.service4}"
-          },
+             "url":"Images.service4"
+          }
+         },
           "name":"Eventi",
           "taxonomy":"listar_category",
           "term_id":5,
